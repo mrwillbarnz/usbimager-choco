@@ -1,0 +1,20 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Head over to the GitLab Project:
+
+Download the Windows Binary from the following link.
+    x86: https://gitlab.com/bztsrc/usbimager/raw/binaries/usbimager_1.0.7-i686-win-gdi.zip
+
+Get the Checksum of the file by using either:
+    Using 'Get-FileHash' Powershell function  (Preferred)
+    Using the chocolatey built-in utility (checksum.exe).
+
+Checksums should match the following:
+
+    checksumType: SHA256
+    checksum32: 775CD09213BC92A710A29136120FE41B6FF166EB387F39AFEFECDF82321EA079
+
+bzt has distributed this software under the MIT licence, included in this package.
+Obtained from: https://gitlab.com/bztsrc/usbimager/-/raw/master/LICENSE

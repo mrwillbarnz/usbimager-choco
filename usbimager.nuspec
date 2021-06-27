@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>usbimager.portable</id>
+    <version>1.0.7</version>
+    <title>usbimager (Portable) 1.0.7</title>
+    <description>A cross platform, minimal GUI application for writing compressed disk images to USB drives</description>
+    <packageSourceUrl>https://gitlab.com/bztsrc/usbimager</packageSourceUrl>
+    <authors>bzt</authors>
+    <owners>mrwillbarnz</owners>
+    <projectUrl>https://gitlab.com/bztsrc/usbimager/-/tree/master</projectUrl>
+    <iconUrl>https://gitlab.com/bztsrc/usbimager/raw/master/src/misc/icon32.png</iconUrl>
+    <copyright>2020 bzt</copyright>
+    <licenseUrl>https://gitlab.com/bztsrc/usbimager/-/raw/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://gitlab.com/bztsrc/usbimager/-/tree/master</projectSourceUrl>
+    <docsUrl>https://gitlab.com/bztsrc/usbimager/-/raw/master/usbimager-manual.pdf</docsUrl>
+    <bugTrackerUrl>https://gitlab.com/bztsrc/usbimager/-/issues</bugTrackerUrl>
+    <tags>usbimager imager</tags>
+    <summary>A cross platform, minimal GUI application for writing compressed disk images to USB drives</summary>
+    <releaseNotes>https://gitlab.com/bztsrc/usbimager/-/releases</releaseNotes>
+  </metadata>
+<files>
+  <file src="tools\**" target="tools" />
+</files>
+</package>
