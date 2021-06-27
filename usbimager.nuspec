@@ -13,7 +13,6 @@
     <copyright>2020 bzt</copyright>
     <licenseUrl>https://gitlab.com/bztsrc/usbimager/-/raw/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://gitlab.com/bztsrc/usbimager/-/tree/master</projectSourceUrl>
     <docsUrl>https://gitlab.com/bztsrc/usbimager/-/raw/master/usbimager-manual.pdf</docsUrl>
     <bugTrackerUrl>https://gitlab.com/bztsrc/usbimager/-/issues</bugTrackerUrl>
     <tags>usbimager imager</tags>
